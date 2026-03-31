@@ -1,1 +1,2 @@
-# moodsic
+# Soundtracker
+This app is perfect for those who want to live life as though they're in a movie! Every show needs a good soundtrack, but if you can't afford to hire a whole team of composers Soundtracker has you covered. Just connect your Spotify account, snap a photo of whatever you're doing, and hit go! AI will play you music that fits your vibe, selecting songs from the millions available for streaming. You can also describe what you want to hear, alongside the photo prompt or instead of it.
